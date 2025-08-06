@@ -26,6 +26,8 @@ I'm an aspiring infrastructure engineer who loves to automate, containerize, and
 ### Frameworks
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?logo=spring&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00A98F?logo=go&logoColor=white)
 
 ### Infrastructure
