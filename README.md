@@ -1,4 +1,4 @@
-# 👋 Nice way to meet me
+#  Nice way to meet me
 
 [![GitHub](https://img.shields.io/badge/GitHub-dongjune8931-blue)](https://github.com/dongjune8931)
 [![Email](https://img.shields.io/badge/ldj9905717@gmail.com-red)](mailto:ldj9905717@gmail.com)
@@ -14,7 +14,7 @@ I'm an aspiring infrastructure engineer who loves to automate, containerize, and
 
 ---
 
-# 💪 Skills
+#  Skills
 
 ### Languages
 
