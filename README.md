@@ -1,6 +1,4 @@
 #  Nice way to meet me
-
-[![GitHub](https://img.shields.io/badge/GitHub-dongjune8931-blue)](https://github.com/dongjune8931)
 [![Email](https://img.shields.io/badge/ldj9905717@gmail.com-red)](mailto:ldj9905717@gmail.com)
 
 ---
@@ -14,9 +12,11 @@ I'm an aspiring infrastructure engineer who loves to automate, containerize, and
 
 ---
 
-#  Skills
+<div align="center">
 
-### Languages
+# 🛠️ Skills
+
+ ### Languages
 
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
@@ -49,3 +49,23 @@ I'm an aspiring infrastructure engineer who loves to automate, containerize, and
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?logo=mongodb&logoColor=white)
 
 ---
+# 🏅 Certifications
+  
+- AWS Certified Solutions Architect – Associate
+---
+
+# 🚀 Projects
+</div>
+
+- [**이메일 대량 발송 시스템 설계**](https://github.com/aws-cloud-clubs/ACC-Pillars) - [**Infra**] A project from the AWS Cloud Clubs. 
+- [**Favus(v1)**](https://github.com/COMA/Favus) - A CLI tool for S3 multipart uploads that includes management and cleanup of incomplete (orphan) objects.
+- [**CATSPOT** ](https://github.com/GGUM-5) - [**PM,DESIGN**] Award-winning project from the GGUM Hackathon 
+- [**Catxi_BackEnd** ](https://github.com/Team-Catxi/Catxi_BackEnd) - [**PM,BE**] A ride-sharing service for Catholic University students.
+- [**CATXI_MSA**  -ing](https://github.com/dongjune8931/CATXI_MSA) - [**BE**] A repository for structuring the CATXI project into an MSA. 
+- [**BrainPix-Back** ](https://github.com/BrainPix/BrainPix-Back) - [**BE**] An online marketplace for buying and selling creative ideas
+- [**Beautiflow** ](https://github.com/TEAM-BeautiFlow/BeautiFlow_BE) - [**BE**] A booking and chat service for beauty salons.
+- [**MiriMili** ](https://github.com/MiriMili/MiriMili-BE) -[**BE**] A community website service for military personnel.
+
+---
+
+
