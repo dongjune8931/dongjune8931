@@ -58,13 +58,14 @@ I'm an aspiring infrastructure engineer who loves to automate, containerize, and
 </div>
 
 - [**이메일 대량 발송 시스템 설계**](https://github.com/aws-cloud-clubs/ACC-Pillars) - [**Infra**] A project from the AWS Cloud Clubs. 
-- [**Favus(v1)**](https://github.com/COMA/Favus) - A CLI tool for S3 multipart uploads that includes management and cleanup of incomplete (orphan) objects.
-- [**CATSPOT** ](https://github.com/GGUM-5) - [**PM,DESIGN**] Award-winning project from the GGUM Hackathon 
-- [**Catxi_BackEnd** ](https://github.com/Team-Catxi/Catxi_BackEnd) - [**PM,BE**] A ride-sharing service for Catholic University students.
+- [**CATSPOT** ](https://github.com/GGUM-5) - [**PM,DESIGN**] Award-winning project from the GGUM Hackathon
+- [**BrainPix** ](https://github.com/BrainPix/BrainPix-Back) - [**BE**] An online marketplace for buying and selling creative ideas
+- [**Catxi** ](https://github.com/Team-Catxi/Catxi_BackEnd) - [**PM,BE**] A ride-sharing service for Catholic University students.
 - [**CATXI_MSA**  -ing](https://github.com/dongjune8931/CATXI_MSA) - [**BE**] A repository for structuring the CATXI project into an MSA. 
-- [**BrainPix-Back** ](https://github.com/BrainPix/BrainPix-Back) - [**BE**] An online marketplace for buying and selling creative ideas
 - [**Beautiflow** ](https://github.com/TEAM-BeautiFlow/BeautiFlow_BE) - [**BE**] A booking and chat service for beauty salons.
 - [**MiriMili** ](https://github.com/MiriMili/MiriMili-BE) -[**BE**] A community website service for military personnel.
+- [**Favus(v1)**](https://github.com/COMA/Favus) - A CLI tool for S3 multipart uploads that includes management and cleanup of incomplete (orphan) objects.
+
 
 ---
 
