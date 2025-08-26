@@ -14,7 +14,7 @@ I'm an aspiring infrastructure engineer who loves to automate, containerize, and
 
 <div align="center">
 
-# 🛠️ Skills
+#  Skills
 
  ### Languages
 
@@ -49,12 +49,12 @@ I'm an aspiring infrastructure engineer who loves to automate, containerize, and
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?logo=mongodb&logoColor=white)
 
 ---
-# 🏅 Certifications
+#  Certifications
   
 - AWS Certified Solutions Architect – Associate
 ---
 
-# 🚀 Projects
+#  Projects
 </div>
 
 - [**이메일 대량 발송 시스템 설계**](https://github.com/aws-cloud-clubs/ACC-Pillars) - [**Infra**] A project from the AWS Cloud Clubs. 
@@ -68,5 +68,14 @@ I'm an aspiring infrastructure engineer who loves to automate, containerize, and
 
 
 ---
+<div align="center">
+
+#  Toy
+</div>
+
+- [**SAA-BOT**](https://github.com/dongjune8931/SAA-BOT) - AI-powered AWS SAA Question Auto-Summarization CLI
+- [**Coupon-system**](https://github.com/dongjune8931/Coupon-system) - A coupon system designed to study and practice concurrency
+- [**TicketingServer**](https://github.com/dongjune8931/TicketingServer) - Spring-based ticketing service demonstrating various concurrency handling strategies
+
 
 
