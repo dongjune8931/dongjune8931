@@ -64,7 +64,7 @@ I'm an aspiring infrastructure engineer who loves to automate, containerize, and
 - [**CATXI_MSA**  -ing](https://github.com/dongjune8931/CATXI_MSA) - [**BE**] A repository for structuring the CATXI project into an MSA. 
 - [**Beautiflow** ](https://github.com/TEAM-BeautiFlow/BeautiFlow_BE) - [**BE**] A booking and chat service for beauty salons.
 - [**MiriMili** ](https://github.com/MiriMili/MiriMili-BE) -[**BE**] A community website service for military personnel.
-- [**Favus(v1)**](https://github.com/COMA/Favus) - [**OSI**] A CLI tool for S3 multipart uploads that includes management and cleanup of incomplete (orphan) objects.
+- [**Favus(v1)**]([https://github.com/COMA/Favus](https://github.com/dongjune8931/Favus)) - [**OSI**] A CLI tool for S3 multipart uploads that includes management and cleanup of incomplete (orphan) objects.
 
 
 ---
