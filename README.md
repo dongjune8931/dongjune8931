@@ -64,8 +64,8 @@ I'm an aspiring infrastructure engineer who loves to automate, containerize, and
 - [**CATXI_MSA**  -ing](https://github.com/dongjune8931/CATXI_MSA) - [**BE**] A repository for structuring the CATXI project into an MSA. 
 - [**Beautiflow** ](https://github.com/TEAM-BeautiFlow/BeautiFlow_BE) - [**BE**] A booking and chat service for beauty salons.
 - [**MiriMili** ](https://github.com/MiriMili/MiriMili-BE) -[**BE**] A community website service for military personnel.
-- [**Naotte**](https://github.com/TEAM-Naeottae/Naeottae_BE) - [**BE, PAY**] A reservation and payment service where I implemented the core booking and payment features.
-- [**Geulda**](https://github.com/TEAM-GeulDa/GeulDa_BE) - [**PM, BE**] A tourism promotion service for Bucheon City, awarded the Grand Prize at a university competition.
+- [**Naotte**](https://github.com/TEAM-Naeottae/Naeottae_BE) - [**BE**] A reservation and payment service where I implemented the core booking and payment features.
+- [**Geulda**](https://github.com/TEAM-GeulDa/GeulDa_BE) - [**BE**] A tourism promotion service for Bucheon City, awarded the Grand Prize at a university competition.
 - [**Favus(v1)**](https://github.com/dongjune8931/Favus) - [**OSI**] A CLI tool for S3 multipart uploads that includes management and cleanup of incomplete (orphan) objects.
 
 
