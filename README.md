@@ -21,7 +21,6 @@ I'm an aspiring infrastructure engineer who loves to automate, containerize, and
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Backend
 
@@ -39,10 +38,6 @@ I'm an aspiring infrastructure engineer who loves to automate, containerize, and
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 
----
-#  Certifications
-  
-- AWS Certified Solutions Architect – Associate
 ---
 
 #  Projects
@@ -63,12 +58,10 @@ I'm an aspiring infrastructure engineer who loves to automate, containerize, and
 ---
 <div align="center">
 
-#  Toy
-</div>
-
-- [**SAA-BOT**](https://github.com/dongjune8931/SAA-BOT) - AI-powered AWS SAA Question Auto-Summarization CLI
-- [**Coupon-system**](https://github.com/dongjune8931/Coupon-system) - A coupon system designed to study and practice concurrency
-- [**TicketingServer**](https://github.com/dongjune8931/TicketingServer) - Spring-based ticketing service demonstrating various concurrency handling strategies
+#  Certifications
+  
+- AWS Certified Solutions Architect – Associate
+---
 
 
 
