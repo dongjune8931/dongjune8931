@@ -6,7 +6,6 @@
 
 Hi there! I'm currently a **university student** passionate about **Cloud, Infrastructure, and Engineering**.  
 I’m deeply interested in how things work under the hood, especially in **cloud-native systems** and **DevOps practices**.  
-Lately, I’ve been studying **Spring Framework**, improving my backend skills, and building things from infrastructure to applications.  
 I'm exploring different tech stacks to build scalable and reliable systems.  
 
 I'm an aspiring infrastructure engineer who loves to automate, containerize, and optimize.  
