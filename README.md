@@ -1,5 +1,6 @@
 #  Nice way to meet me
 [![Email](https://img.shields.io/badge/ldj9905717@gmail.com-red)](mailto:ldj9905717@gmail.com)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@dpsjwl58/posts)
 
 ---
 
@@ -62,6 +63,7 @@ I'm an aspiring infrastructure engineer who loves to automate, containerize, and
   
 - AWS Certified Solutions Architect – Associate
 ---
+
 
 
 
