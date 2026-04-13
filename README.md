@@ -44,19 +44,20 @@ I'm an aspiring infrastructure engineer who loves to automate, containerize, and
 #  Projects
 </div>
 
-- [**이메일 대량 발송 시스템 설계**](https://github.com/aws-cloud-clubs/ACC-Pillars) - [**Infra**] A project from the AWS Cloud Clubs. 
-- [**CATSPOT** ](https://github.com/GGUM-5) - [**PM,DESIGN**] Award-winning project from the GGUM Hackathon
-- [**BrainPix** ](https://github.com/BrainPix/BrainPix-Back) - [**BE**] An online marketplace for buying and selling creative ideas
-- [**Catxi** ](https://github.com/Team-Catxi/Catxi_BackEnd) - [**PM,BE**] A ride-sharing service for Catholic University students.
-- [**CATXI_MSA**  -ing](https://github.com/dongjune8931/CATXI_MSA) - [**BE**] A repository for structuring the CATXI project into an MSA. 
-- [**Beautiflow** ](https://github.com/TEAM-BeautiFlow/BeautiFlow_BE) - [**BE**] A booking and chat service for beauty salons.
-- [**MiriMili** ](https://github.com/MiriMili/MiriMili-BE) -[**BE**] A community website service for military personnel.
-- [**Bisit**](https://github.com/TEAM-Naeottae/Naeottae_BE) - [**BE**] A reservation and payment service where I implemented the core booking and payment features.
-- [**Geulda**](https://github.com/TEAM-GeulDa/GeulDa_BE) - [**BE**] A tourism promotion service for Bucheon City, awarded the Grand Prize at a university competition.
-- [**Favus**](https://github.com/dongjune8931/Favus) - [**OSI**] A CLI tool for S3 multipart uploads that includes management and cleanup of incomplete (orphan) objects.
+| Project | Role | Description | |
+|---------|------|-------------|-|
+| [Favus](https://github.com/dongjune8931/Favus) | DEV | A CLI tool for S3 multipart uploads that includes management and cleanup of incomplete (orphan) objects | 🏆|
+| [이메일 대량 발송](https://github.com/aws-cloud-clubs/ACC-Pillars) | Infra | A project from the AWS Cloud Clubs focused on designing a bulk email delivery system | |
+| [Catxi](https://github.com/Team-Catxi/Catxi_BackEnd) | PM · BE | A ride-sharing service for Catholic University students | |
+| [Catxi MSA](https://github.com/dongjune8931/CATXI_MSA) | BE | A repository for restructuring the CATXI project into an MSA |  |
+| [Geulda](https://github.com/TEAM-GeulDa/GeulDa_BE) | BE | A tourism promotion service for Bucheon City, awarded the Grand Prize at a university competition | 🏆 |
+| [CATSPOT](https://github.com/GGUM-5) | PM | Award-winning project from the GGUM Hackathon | 🏆 |
+| [Bisit](https://github.com/TEAM-Naeottae/Naeottae_BE) | BE | A reservation and payment service where I implemented the core booking and payment features | |
+| [BrainPix](https://github.com/BrainPix/BrainPix-Back) | BE | An online marketplace for buying and selling creative ideas | |
+| [Beautiflow](https://github.com/TEAM-BeautiFlow/BeautiFlow_BE) | BE | A booking and chat service for beauty salons | |
+| [MiriMili](https://github.com/MiriMili/MiriMili-BE) | BE | A community website service for military personnel | |
 
 
----
 <div align="center">
 
 #  Certifications
