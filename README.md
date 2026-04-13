@@ -48,7 +48,7 @@ I'm an aspiring infrastructure engineer who loves to automate, containerize, and
 |---------|------|-------------|-|
 | [Favus](https://github.com/dongjune8931/Favus) | DEV | A CLI tool for S3 multipart uploads that includes management and cleanup of incomplete (orphan) objects | 🏆|
 | [이메일 대량 발송](https://github.com/aws-cloud-clubs/ACC-Pillars) | Infra | A project from the AWS Cloud Clubs focused on designing a bulk email delivery system | |
-| [Catxi](https://github.com/Team-Catxi/Catxi_BackEnd) | PM · BE | A ride-sharing service for Catholic University students | |
+| [Catxi](https://github.com/Team-Catxi/Catxi_BackEnd) | PM · Infra · BE | A ride-sharing service for Catholic University students | |
 | [Catxi MSA](https://github.com/dongjune8931/CATXI_MSA) | BE | A repository for restructuring the CATXI project into an MSA |  |
 | [Geulda](https://github.com/TEAM-GeulDa/GeulDa_BE) | BE | A tourism promotion service for Bucheon City, awarded the Grand Prize at a university competition | 🏆 |
 | [CATSPOT](https://github.com/GGUM-5) | PM | Award-winning project from the GGUM Hackathon | 🏆 |
