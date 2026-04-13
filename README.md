@@ -9,8 +9,6 @@ Hi there! I'm currently a **university student** passionate about **Cloud, Infra
 I'm deeply interested in how things work under the hood, especially in **cloud-native systems** and **DevOps practices**.  
 I'm exploring different tech stacks to build scalable and reliable systems.  
 
-I'm an aspiring infrastructure engineer who loves to automate, containerize, and optimize.
-
 ---
 
 <div align="center">
