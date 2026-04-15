@@ -50,7 +50,7 @@ Currently, I'm focusing on building scalable systems using Go and Kubernetes, an
       <code>Go</code> <code>AWS S3</code> <code>CLI</code>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/aws-cloud-clubs/ACC-Pillars">이메일 대량 발송</a></b> <code>Infra</code><br>
+      <b><a href="https://github.com/dongjune8931/EmailService">이메일 대량 발송</a></b> <code>Infra</code><br>
       Bulk email delivery system design as part of AWS Cloud Clubs<br><br>
       <code>AWS SES</code> <code>Lambda</code> <code>Terraform</code>
     </td>
