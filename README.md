@@ -39,9 +39,35 @@ Currently, I'm focusing on building scalable systems using Go and Kubernetes, an
 
 ---
 
+# Open Source Contributions
+
+<div align="center">
+  <table style="border-collapse: collapse; border: 1px solid #30363d; background-color: #0d1117; width: 100%;">
+    <tr>
+      <td align="center" style="padding: 40px; border: 1px solid #30363d;">
+        <div style="margin-bottom: 25px;">
+          <img src="https://img.shields.io/badge/OpenTofu-FF511C?style=for-the-badge&logo=opentofu&logoColor=white" alt="OpenTofu Logo" />
+        </div>
+        <div style="margin-bottom: 25px;">
+          <a href="https://github.com/opentofu/opentofu/pull/4034" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/PR%20%234034-Merged-yellow?style=for-the-badge&logo=github&logoColor=black" alt="PR 4034 Merged">
+          </a>
+        </div>
+        <div style="max-width: 600px; text-align: center;">
+          <p style="color: #c9d1d9; font-size: 15px; line-height: 1.5; margin: 0; font-weight: normal;">
+            Replace panic with error diagnostics for invalid TF_STATE_PERSIST_INTERVAL
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 # Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/dongjune8931/Favus">Favus</a></b> 🏆 <code>DEV</code><br>
@@ -104,32 +130,6 @@ Currently, I'm focusing on building scalable systems using Go and Kubernetes, an
     </td>
   </tr>
 </table>
-
----
-
-## Open Source Contributions
-
-<div align="center">
-  <table style="border-collapse: collapse; border: 1px solid #30363d; background-color: #0d1117; width: 100%;">
-    <tr>
-      <td align="center" style="padding: 40px; border: 1px solid #30363d;">
-        <div style="margin-bottom: 25px;">
-          <img src="https://img.shields.io/badge/OpenTofu-FF511C?style=for-the-badge&logo=opentofu&logoColor=white" alt="OpenTofu Logo" />
-        </div>
-        <div style="margin-bottom: 25px;">
-          <a href="https://github.com/opentofu/opentofu/pull/4034" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/PR%20%234034-Merged-yellow?style=for-the-badge&logo=github&logoColor=black" alt="PR 4034 Merged">
-          </a>
-        </div>
-        <div style="max-width: 500px; text-align: center;">
-          <p style="color: #c9d1d9; font-size: 15px; line-height: 1.5; margin: 0; font-weight: normal;">
-            Replace panic with error diagnostics for invalid TF_STATE_PERSIST_INTERVAL
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
