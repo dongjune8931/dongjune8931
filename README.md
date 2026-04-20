@@ -42,25 +42,40 @@ Currently, I'm focusing on building scalable systems using Go and Kubernetes, an
 # Open Source Contributions
 
 <div align="center">
-  <table style="border-collapse: collapse; border: 1px solid #30363d; background-color: #0d1117; width: 100%;">
-    <tr>
-      <td align="center" style="padding: 40px; border: 1px solid #30363d;">
-        <div style="margin-bottom: 25px;">
-          <img src="https://img.shields.io/badge/OpenTofu-FF511C?style=for-the-badge&logo=opentofu&logoColor=white" alt="OpenTofu Logo" />
-        </div>
-        <div style="margin-bottom: 25px;">
-          <a href="https://github.com/opentofu/opentofu/pull/4034" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/PR%20%234034-Merged-yellow?style=for-the-badge&logo=github&logoColor=black" alt="PR 4034 Merged">
-          </a>
-        </div>
-        <div style="max-width: 600px; text-align: center;">
-          <p style="color: #c9d1d9; font-size: 15px; line-height: 1.5; margin: 0; font-weight: normal;">
-            Replace panic with error diagnostics for invalid TF_STATE_PERSIST_INTERVAL
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
+    <table style="border-collapse: collapse; border: 1px solid #30363d; background-color: #0d1117; width: 100%;">
+      <tr>
+        <td align="center" style="padding: 40px; border: 1px solid #30363d; width: 50%;">
+          <div style="margin-bottom: 25px;">
+            <img src="https://img.shields.io/badge/OpenTofu-FF511C?style=for-the-badge&logo=opentofu&logoColor=white" alt="OpenTofu Logo" />
+          </div>
+          <div style="margin-bottom: 25px;">
+            <a href="https://github.com/opentofu/opentofu/pull/4034" style="text-decoration: none;">
+              <img src="https://img.shields.io/badge/PR%20%234034-Merged-yellow?style=for-the-badge&logo=github&logoColor=black" alt="PR 4034 Merged">
+            </a>
+          </div>
+          <div style="max-width: 600px; text-align: center;">
+            <p style="color: #c9d1d9; font-size: 15px; line-height: 1.5; margin: 0; font-weight: normal;">
+              Replace panic with error diagnostics for invalid TF_STATE_PERSIST_INTERVAL
+            </p>
+          </div>
+        </td>
+        <td align="center" style="padding: 40px; border: 1px solid #30363d; width: 50%;">
+          <div style="margin-bottom: 25px;">
+            <img src="https://img.shields.io/badge/Argo%20Events-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo Events Logo" />
+          </div>
+          <div style="margin-bottom: 25px;">
+            <a href="https://github.com/argoproj/argo-events/pull/3990" style="text-decoration: none;">
+              <img src="https://img.shields.io/badge/PR%20%233990-Merged-yellow?style=for-the-badge&logo=github&logoColor=black" alt="PR 3990 Merged">
+            </a>
+          </div>
+          <div style="max-width: 600px; text-align: center;">
+            <p style="color: #c9d1d9; font-size: 15px; line-height: 1.5; margin: 0; font-weight: normal;">
+              fix(bitbucketserver): replace %w with %v in Logger.Errorf call
+            </p>
+          </div>
+        </td>
+      </tr>
+    </table>
 </div>
 
 ---
