@@ -42,9 +42,10 @@ Currently, I'm focusing on building scalable systems using Go and Kubernetes, an
 # Open Source Contributions
 
 <div align="center">
-    <table style="border-collapse: collapse; border: 1px solid #30363d; background-color: #0d1117; width: 100%;">
+  <table style="width: 100%; table-layout: fixed; border-collapse: collapse; border: 1px solid #30363d; background-color: #0d1117;">
+    <thead>
       <tr>
-        <td align="center" style="padding: 40px; border: 1px solid #30363d; width: 50%;">
+        <th width="50%" style="border: 1px solid #30363d; padding: 40px; font-weight: normal; vertical-align: top;">
           <div style="margin-bottom: 25px;">
             <img src="https://img.shields.io/badge/OpenTofu-FF511C?style=for-the-badge&logo=opentofu&logoColor=white" alt="OpenTofu Logo" />
           </div>
@@ -53,13 +54,11 @@ Currently, I'm focusing on building scalable systems using Go and Kubernetes, an
               <img src="https://img.shields.io/badge/PR%20%234034-Merged-yellow?style=for-the-badge&logo=github&logoColor=black" alt="PR 4034 Merged">
             </a>
           </div>
-          <div style="max-width: 600px; text-align: center;">
-            <p style="color: #c9d1d9; font-size: 15px; line-height: 1.5; margin: 0; font-weight: normal;">
-              Replace panic with error diagnostics for invalid TF_STATE_PERSIST_INTERVAL
-            </p>
-          </div>
-        </td>
-        <td align="center" style="padding: 40px; border: 1px solid #30363d; width: 50%;">
+          <p style="color: #c9d1d9; font-size: 15px; line-height: 1.5; margin: 0;">
+            Replace panic with error diagnostics for invalid TF_STATE_PERSIST_INTERVAL
+          </p>
+        </th>
+        <th width="50%" style="border: 1px solid #30363d; padding: 40px; font-weight: normal; vertical-align: top;">
           <div style="margin-bottom: 25px;">
             <img src="https://img.shields.io/badge/Argo%20Events-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo Events Logo" />
           </div>
@@ -68,14 +67,13 @@ Currently, I'm focusing on building scalable systems using Go and Kubernetes, an
               <img src="https://img.shields.io/badge/PR%20%233990-Merged-yellow?style=for-the-badge&logo=github&logoColor=black" alt="PR 3990 Merged">
             </a>
           </div>
-          <div style="max-width: 600px; text-align: center;">
-            <p style="color: #c9d1d9; font-size: 15px; line-height: 1.5; margin: 0; font-weight: normal;">
-              fix(bitbucketserver): replace %w with %v in Logger.Errorf call
-            </p>
-          </div>
-        </td>
+          <p style="color: #c9d1d9; font-size: 15px; line-height: 1.5; margin: 0;">
+            fix(bitbucketserver): replace %w with %v in Logger.Errorf call
+          </p>
+        </th>
       </tr>
-    </table>
+    </thead>
+  </table>
 </div>
 
 ---
