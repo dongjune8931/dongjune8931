@@ -5,8 +5,8 @@
 
 ---
 
-Hi there! I'm currently a **university student** passionate about **Cloud, Infrastructure, and Engineering**.  
-I'm deeply interested in how things work under the hood, especially in **cloud-native systems** and **DevOps practices**.  I'm exploring different tech stacks to build scalable and reliable systems.  
+Hi there! I'm currently a **university student** passionate about **Cloud, Infrastructure, and Engineering**.
+I'm deeply interested in how things work under the hood, especially in **cloud-native systems** and **DevOps practices**. I'm exploring different tech stacks to build scalable and reliable systems.
 Currently, I'm focusing on building scalable systems using Go and Kubernetes, and I'm actively exploring and striving to contribute to the open-source ecosystem.
 
 ---
@@ -35,9 +35,9 @@ Currently, I'm focusing on building scalable systems using Go and Kubernetes, an
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 
----
-
 </div>
+
+---
 
 # Projects
 
@@ -107,6 +107,32 @@ Currently, I'm focusing on building scalable systems using Go and Kubernetes, an
 
 ---
 
+## Open Source Contributions
+
+<div align="center">
+  <table style="border-collapse: collapse; border: 1px solid #30363d; background-color: #0d1117; width: 100%;">
+    <tr>
+      <td align="center" style="padding: 40px; border: 1px solid #30363d;">
+        <div style="margin-bottom: 25px;">
+          <img src="https://img.shields.io/badge/OpenTofu-FF511C?style=for-the-badge&logo=opentofu&logoColor=white" alt="OpenTofu Logo" />
+        </div>
+        <div style="margin-bottom: 25px;">
+          <a href="https://github.com/opentofu/opentofu/pull/4034" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/PR%20%234034-Merged-yellow?style=for-the-badge&logo=github&logoColor=black" alt="PR 4034 Merged">
+          </a>
+        </div>
+        <div style="max-width: 500px; text-align: center;">
+          <p style="color: #c9d1d9; font-size: 15px; line-height: 1.5; margin: 0; font-weight: normal;">
+            Replace panic with error diagnostics for invalid TF_STATE_PERSIST_INTERVAL
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 <div align="center">
 
 # Certifications
@@ -114,7 +140,3 @@ Currently, I'm focusing on building scalable systems using Go and Kubernetes, an
 - AWS Certified Solutions Architect – Associate
 
 </div>
-
----
-
-
