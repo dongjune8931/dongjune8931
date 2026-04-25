@@ -50,6 +50,19 @@ Currently, I'm focusing on building scalable systems using Go and Kubernetes, an
             <img src="https://img.shields.io/badge/OpenTofu-FF511C?style=for-the-badge&logo=opentofu&logoColor=white" alt="OpenTofu Logo" />
           </div>
           <div style="margin-bottom: 25px;">
+            <a href="https://github.com/opentofu/opentofu/pull/4016" style="text-decoration: none;">
+              <img src="https://img.shields.io/badge/PR%20%234016-Merged-yellow?style=for-the-badge&logo=github&logoColor=black" alt="PR 4016 Merged">
+            </a>
+          </div>
+          <p style="color: #c9d1d9; font-size: 15px; line-height: 1.5; margin: 0;">
+            Fix OAuth login channel race condition in tofu login command
+          </p>
+        </th>
+        <th width="50%" style="border: 1px solid #30363d; padding: 40px; font-weight: normal; vertical-align: top;">
+          <div style="margin-bottom: 25px;">
+            <img src="https://img.shields.io/badge/OpenTofu-FF511C?style=for-the-badge&logo=opentofu&logoColor=white" alt="OpenTofu Logo" />
+          </div>
+          <div style="margin-bottom: 25px;">
             <a href="https://github.com/opentofu/opentofu/pull/4034" style="text-decoration: none;">
               <img src="https://img.shields.io/badge/PR%20%234034-Merged-yellow?style=for-the-badge&logo=github&logoColor=black" alt="PR 4034 Merged">
             </a>
@@ -58,6 +71,8 @@ Currently, I'm focusing on building scalable systems using Go and Kubernetes, an
             Replace panic with error diagnostics for invalid TF_STATE_PERSIST_INTERVAL
           </p>
         </th>
+      </tr>
+      <tr>
         <th width="50%" style="border: 1px solid #30363d; padding: 40px; font-weight: normal; vertical-align: top;">
           <div style="margin-bottom: 25px;">
             <img src="https://img.shields.io/badge/Argo%20Events-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo Events Logo" />
@@ -70,6 +85,8 @@ Currently, I'm focusing on building scalable systems using Go and Kubernetes, an
           <p style="color: #c9d1d9; font-size: 15px; line-height: 1.5; margin: 0;">
             fix(bitbucketserver): replace %w with %v in Logger.Errorf call
           </p>
+        </th>
+        <th width="50%" style="border: 1px solid #30363d; padding: 40px; font-weight: normal; vertical-align: top;">
         </th>
       </tr>
     </thead>
