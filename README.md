@@ -105,5 +105,6 @@ Currently, I'm focusing on building scalable systems using Go and Kubernetes, an
 # Certifications
 
 - AWS Certified Solutions Architect – Associate
+- Linux Master (Advanced / 1st Class), KAIT
 
 </div>
