@@ -49,48 +49,87 @@ Currently, I'm focusing on building scalable systems using Go and Kubernetes, an
   <table style="width: 100%; table-layout: fixed; border-collapse: collapse; border: 1px solid #30363d; background-color: #0d1117;">
     <thead>
       <tr>
-        <th width="50%" style="border: 1px solid #30363d; padding: 40px; font-weight: normal; vertical-align: top;">
-          <div style="margin-bottom: 25px;">
+        <th width="50%" align="center" style="border: 1px solid #30363d; padding: 40px; font-weight: normal; vertical-align: top; text-align: center;">
+          <div style="margin-bottom: 10px;">
             <img src="https://img.shields.io/badge/OpenTofu-FF511C?style=for-the-badge&logo=opentofu&logoColor=white" alt="OpenTofu Logo" />
           </div>
-          <div style="margin-bottom: 25px;">
+          <div style="margin-bottom: 16px;">
             <a href="https://github.com/opentofu/opentofu/pull/4016" style="text-decoration: none;">
               <img src="https://img.shields.io/badge/PR%20%234016-Merged-yellow?style=for-the-badge&logo=github&logoColor=black" alt="PR 4016 Merged">
             </a>
           </div>
-          <p style="color: #c9d1d9; font-size: 15px; line-height: 1.5; margin: 0;">
-            Fix OAuth login channel race condition in tofu login command
+          <p style="color: #c9d1d9; font-size: 18px; line-height: 1.5; margin: 0; text-align: center;">
+            <strong>Fix OAuth login channel race condition in tofu login command</strong>
           </p>
         </th>
-        <th width="50%" style="border: 1px solid #30363d; padding: 40px; font-weight: normal; vertical-align: top;">
-          <div style="margin-bottom: 25px;">
+        <th width="50%" align="center" style="border: 1px solid #30363d; padding: 40px; font-weight: normal; vertical-align: top; text-align: center;">
+          <div style="margin-bottom: 10px;">
             <img src="https://img.shields.io/badge/OpenTofu-FF511C?style=for-the-badge&logo=opentofu&logoColor=white" alt="OpenTofu Logo" />
           </div>
-          <div style="margin-bottom: 25px;">
+          <div style="margin-bottom: 16px;">
             <a href="https://github.com/opentofu/opentofu/pull/4034" style="text-decoration: none;">
               <img src="https://img.shields.io/badge/PR%20%234034-Merged-yellow?style=for-the-badge&logo=github&logoColor=black" alt="PR 4034 Merged">
             </a>
           </div>
-          <p style="color: #c9d1d9; font-size: 15px; line-height: 1.5; margin: 0;">
-            Replace panic with error diagnostics for invalid TF_STATE_PERSIST_INTERVAL
+          <p style="color: #c9d1d9; font-size: 18px; line-height: 1.5; margin: 0; text-align: center;">
+            <strong>Replace panic with error diagnostics for invalid TF_STATE_PERSIST_INTERVAL</strong>
           </p>
         </th>
       </tr>
       <tr>
-        <th width="50%" style="border: 1px solid #30363d; padding: 40px; font-weight: normal; vertical-align: top;">
-          <div style="margin-bottom: 25px;">
+        <th width="50%" align="center" style="border: 1px solid #30363d; padding: 40px; font-weight: normal; vertical-align: top; text-align: center;">
+          <div style="margin-bottom: 10px;">
+            <img src="https://img.shields.io/badge/OpenTofu-FF511C?style=for-the-badge&logo=opentofu&logoColor=white" alt="OpenTofu Logo" />
+          </div>
+          <div style="margin-bottom: 16px;">
+            <a href="https://github.com/opentofu/opentofu/pull/4173" style="text-decoration: none;">
+              <img src="https://img.shields.io/badge/PR%20%234173-Merged-yellow?style=for-the-badge&logo=github&logoColor=black" alt="PR 4173 Merged">
+            </a>
+          </div>
+          <p style="color: #c9d1d9; font-size: 18px; line-height: 1.5; margin: 0; text-align: center;">
+            <strong>Set span error status on module fetch failure path in tofu init</strong>
+          </p>
+        </th>
+        <th width="50%" align="center" style="border: 1px solid #30363d; padding: 40px; font-weight: normal; vertical-align: top; text-align: center;">
+          <div style="margin-bottom: 10px;">
+            <img src="https://img.shields.io/badge/Litmus%20Chaos-5B44BA?style=for-the-badge&logo=litmuschaos&logoColor=white" alt="Litmus Chaos Logo" />
+          </div>
+          <div style="margin-bottom: 16px;">
+            <a href="https://github.com/litmuschaos/litmus/pull/5528" style="text-decoration: none;">
+              <img src="https://img.shields.io/badge/PR%20%235528-Open-blue?style=for-the-badge&logo=github&logoColor=white" alt="PR 5528 Open">
+            </a>
+          </div>
+          <p style="color: #c9d1d9; font-size: 18px; line-height: 1.5; margin: 0; text-align: center;">
+            <strong>Update otel-demo tutorial for upstream OpenSearch integration</strong>
+          </p>
+        </th>
+      </tr>
+      <tr>
+        <th width="50%" align="center" style="border: 1px solid #30363d; padding: 40px; font-weight: normal; vertical-align: top; text-align: center;">
+          <div style="margin-bottom: 10px;">
+            <img src="https://img.shields.io/badge/Litmus%20Chaos-5B44BA?style=for-the-badge&logo=litmuschaos&logoColor=white" alt="Litmus Chaos Logo" />
+          </div>
+          <div style="margin-bottom: 16px;">
+            <a href="https://github.com/litmuschaos/litmus/pull/5521" style="text-decoration: none;">
+              <img src="https://img.shields.io/badge/PR%20%235521-Open-blue?style=for-the-badge&logo=github&logoColor=white" alt="PR 5521 Open">
+            </a>
+          </div>
+          <p style="color: #c9d1d9; font-size: 18px; line-height: 1.5; margin: 0; text-align: center;">
+            <strong>Fix ineffective subscriber fuzz test assertions</strong>
+          </p>
+        </th>
+        <th width="50%" align="center" style="border: 1px solid #30363d; padding: 40px; font-weight: normal; vertical-align: top; text-align: center;">
+          <div style="margin-bottom: 10px;">
             <img src="https://img.shields.io/badge/Argo%20Events-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo Events Logo" />
           </div>
-          <div style="margin-bottom: 25px;">
+          <div style="margin-bottom: 16px;">
             <a href="https://github.com/argoproj/argo-events/pull/3990" style="text-decoration: none;">
               <img src="https://img.shields.io/badge/PR%20%233990-Merged-yellow?style=for-the-badge&logo=github&logoColor=black" alt="PR 3990 Merged">
             </a>
           </div>
-          <p style="color: #c9d1d9; font-size: 15px; line-height: 1.5; margin: 0;">
-            fix(bitbucketserver): replace %w with %v in Logger.Errorf call
+          <p style="color: #c9d1d9; font-size: 18px; line-height: 1.5; margin: 0; text-align: center;">
+            <strong>fix(bitbucketserver): replace %w with %v in Logger.Errorf call</strong>
           </p>
-        </th>
-        <th width="50%" style="border: 1px solid #30363d; padding: 40px; font-weight: normal; vertical-align: top;">
         </th>
       </tr>
     </thead>
@@ -104,7 +143,7 @@ Currently, I'm focusing on building scalable systems using Go and Kubernetes, an
 
 # Certifications
 
-- AWS Certified Solutions Architect – Associate
+- AWS Certified Solutions Architect - Associate
 - Linux Master (Advanced / 1st Class), KAIT
 
 </div>
