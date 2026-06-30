@@ -96,7 +96,7 @@ Currently, I'm focusing on building scalable systems using Go and Kubernetes, an
           </div>
           <div style="margin-bottom: 16px;">
             <a href="https://github.com/litmuschaos/litmus/pull/5528" style="text-decoration: none;">
-              <img src="https://img.shields.io/badge/PR%20%235528-Open-blue?style=for-the-badge&logo=github&logoColor=white" alt="PR 5528 Open">
+              <img src="https://img.shields.io/badge/PR%20%234034-Merged-yellow?style=for-the-badge&logo=github&logoColor=black" alt="PR 5528 Merged">
             </a>
           </div>
           <p style="color: #c9d1d9; font-size: 18px; line-height: 1.5; margin: 0; text-align: center;">
@@ -111,7 +111,7 @@ Currently, I'm focusing on building scalable systems using Go and Kubernetes, an
           </div>
           <div style="margin-bottom: 16px;">
             <a href="https://github.com/litmuschaos/litmus/pull/5521" style="text-decoration: none;">
-              <img src="https://img.shields.io/badge/PR%20%235521-Open-blue?style=for-the-badge&logo=github&logoColor=white" alt="PR 5521 Open">
+              <img src="https://img.shields.io/badge/PR%20%234034-Merged-yellow?style=for-the-badge&logo=github&logoColor=black" alt="PR 5521 Merged">
             </a>
           </div>
           <p style="color: #c9d1d9; font-size: 18px; line-height: 1.5; margin: 0; text-align: center;">
