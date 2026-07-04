@@ -88,61 +88,7 @@ Currently, I'm focusing on building scalable systems using Go and Kubernetes, an
 
 <div align="center">
 
-# Awards
-
-</div>
-
-<table align="center" style="margin-left: auto; margin-right: auto;">
-  <tr>
-    <th align="center" style="text-align: center;">Award</th>
-    <th align="center" style="text-align: center;">Field</th>
-    <th align="center" style="text-align: center;">Result</th>
-  </tr>
-  <tr>
-    <td>대한민국 SW 오픈소스 개발자 대회</td>
-    <td>OSS</td>
-    <td>우수작선정</td>
-  </tr>
-  <tr>
-    <td>전공역량 학술제 포럼·개발역량경진대회</td>
-    <td>가톨릭대</td>
-    <td>최우수상</td>
-  </tr>
-  <tr>
-    <td>GGUM hackerton</td>
-    <td>가톨릭대</td>
-    <td>학부장상</td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-
-# License
-
-</div>
-
-<table align="center" style="margin-left: auto; margin-right: auto;">
-  <tr>
-    <th align="center" style="text-align: center;">License</th>
-    <th align="center" style="text-align: center;">Issuer</th>
-  </tr>
-  <tr>
-    <td>AWS Certified Solutions Architect - Associate</td>
-    <td>AWS</td>
-  </tr>
-  <tr>
-    <td>Linux Master (Advanced / 1st Class)</td>
-    <td>KAIT</td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-
-# Organizations
+# Activities
 
 </div>
 
@@ -150,29 +96,85 @@ Currently, I'm focusing on building scalable systems using Go and Kubernetes, an
   <tr>
     <th align="center" style="text-align: center;">Activity</th>
     <th align="center" style="text-align: center;">Field</th>
+    <th align="center" style="text-align: center;">Period</th>
   </tr>
   <tr>
-    <td>오픈소스 컨트리뷰션 아카데미</td>
-    <td>Litmus Chaos</td>
-  </tr>
-  <tr>
-    <td>오픈소스 컨트리뷰션 아카데미</td>
+    <td>Open Source Contribution Academy</td>
     <td>OpenStack & Kubernetes</td>
+    <td>2026.07 ~</td>
   </tr>
   <tr>
-    <td>ACC(AWS CLOUD CLUB)</td>
-    <td>AWS</td>
-  </tr>
-  <tr>
-    <td>GDG CUK</td>
-    <td>server, cloud</td>
-  </tr>
-  <tr>
-    <td>UMC</td>
-    <td>server</td>
+    <td>Open Source Contribution Academy</td>
+    <td>Litmus Chaos</td>
+    <td>2026.04 ~ 2026.06</td>
   </tr>
   <tr>
     <td>AWS CLOUD SCHOOL</td>
     <td>cloud, server</td>
+    <td>2025.12 ~ 2026.03</td>
+  </tr>
+  <tr>
+    <td>GDG CUK</td>
+    <td>server, cloud</td>
+    <td>2024.08 ~ 2025.08</td>
+  </tr>
+  <tr>
+    <td>UMC</td>
+    <td>server</td>
+    <td>2024.08 ~ 2025.08</td>
+  </tr>
+  <tr>
+    <td>ACC(AWS CLOUD CLUB)</td>
+    <td>AWS</td>
+    <td>2024.08 ~ 2024.12</td>
+  </tr>
+</table>
+
+---
+
+<table align="center" style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <td valign="top">
+      <div align="center">
+        <h1>Awards</h1>
+      </div>
+      <table align="center" style="margin-left: auto; margin-right: auto;">
+        <tr>
+          <th align="center" style="text-align: center;">Award</th>
+          <th align="center" style="text-align: center;">Result</th>
+        </tr>
+        <tr>
+          <td>대한민국 SW 오픈소스 개발자 대회</td>
+          <td>우수작 선정</td>
+        </tr>
+        <tr>
+          <td>전공역량 학술제 포럼·개발역량경진대회</td>
+          <td>최우수상</td>
+        </tr>
+        <tr>
+          <td>GGUM hackerton</td>
+          <td>학부장상</td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top">
+      <div align="center">
+        <h1>License</h1>
+      </div>
+      <table align="center" style="margin-left: auto; margin-right: auto;">
+        <tr>
+          <th align="center" style="text-align: center;">License</th>
+          <th align="center" style="text-align: center;">Issuer</th>
+        </tr>
+        <tr>
+          <td>AWS Certified Solutions Architect - Associate</td>
+          <td>AWS</td>
+        </tr>
+        <tr>
+          <td>Linux Master (Advanced / 1st Class)</td>
+          <td>KAIT</td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
