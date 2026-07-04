@@ -45,105 +45,134 @@ Currently, I'm focusing on building scalable systems using Go and Kubernetes, an
 
 </div>
 
-<div align="center">
-  <table style="width: 100%; table-layout: fixed; border-collapse: collapse; border: 1px solid #30363d; background-color: #0d1117;">
-    <thead>
-      <tr>
-        <th width="50%" align="center" style="border: 1px solid #30363d; padding: 40px; font-weight: normal; vertical-align: top; text-align: center;">
-          <div style="margin-bottom: 10px;">
-            <img src="https://img.shields.io/badge/OpenTofu-FF511C?style=for-the-badge&logo=opentofu&logoColor=white" alt="OpenTofu Logo" />
-          </div>
-          <div style="margin-bottom: 16px;">
-            <a href="https://github.com/opentofu/opentofu/pull/4016" style="text-decoration: none;">
-              <img src="https://img.shields.io/badge/PR%20%234016-Merged-yellow?style=for-the-badge&logo=github&logoColor=black" alt="PR 4016 Merged">
-            </a>
-          </div>
-          <p style="color: #c9d1d9; font-size: 18px; line-height: 1.5; margin: 0; text-align: center;">
-            <strong>Fix OAuth login channel race condition in tofu login command</strong>
-          </p>
-        </th>
-        <th width="50%" align="center" style="border: 1px solid #30363d; padding: 40px; font-weight: normal; vertical-align: top; text-align: center;">
-          <div style="margin-bottom: 10px;">
-            <img src="https://img.shields.io/badge/OpenTofu-FF511C?style=for-the-badge&logo=opentofu&logoColor=white" alt="OpenTofu Logo" />
-          </div>
-          <div style="margin-bottom: 16px;">
-            <a href="https://github.com/opentofu/opentofu/pull/4034" style="text-decoration: none;">
-              <img src="https://img.shields.io/badge/PR%20%234034-Merged-yellow?style=for-the-badge&logo=github&logoColor=black" alt="PR 4034 Merged">
-            </a>
-          </div>
-          <p style="color: #c9d1d9; font-size: 18px; line-height: 1.5; margin: 0; text-align: center;">
-            <strong>Replace panic with error diagnostics for invalid TF_STATE_PERSIST_INTERVAL</strong>
-          </p>
-        </th>
-      </tr>
-      <tr>
-        <th width="50%" align="center" style="border: 1px solid #30363d; padding: 40px; font-weight: normal; vertical-align: top; text-align: center;">
-          <div style="margin-bottom: 10px;">
-            <img src="https://img.shields.io/badge/OpenTofu-FF511C?style=for-the-badge&logo=opentofu&logoColor=white" alt="OpenTofu Logo" />
-          </div>
-          <div style="margin-bottom: 16px;">
-            <a href="https://github.com/opentofu/opentofu/pull/4173" style="text-decoration: none;">
-              <img src="https://img.shields.io/badge/PR%20%234173-Merged-yellow?style=for-the-badge&logo=github&logoColor=black" alt="PR 4173 Merged">
-            </a>
-          </div>
-          <p style="color: #c9d1d9; font-size: 18px; line-height: 1.5; margin: 0; text-align: center;">
-            <strong>Set span error status on module fetch failure path in tofu init</strong>
-          </p>
-        </th>
-        <th width="50%" align="center" style="border: 1px solid #30363d; padding: 40px; font-weight: normal; vertical-align: top; text-align: center;">
-          <div style="margin-bottom: 10px;">
-            <img src="https://img.shields.io/badge/Litmus%20Chaos-5B44BA?style=for-the-badge&logo=litmuschaos&logoColor=white" alt="Litmus Chaos Logo" />
-          </div>
-          <div style="margin-bottom: 16px;">
-            <a href="https://github.com/litmuschaos/litmus/pull/5528" style="text-decoration: none;">
-              <img src="https://img.shields.io/badge/PR%20%234034-Merged-yellow?style=for-the-badge&logo=github&logoColor=black" alt="PR 5528 Merged">
-            </a>
-          </div>
-          <p style="color: #c9d1d9; font-size: 18px; line-height: 1.5; margin: 0; text-align: center;">
-            <strong>Update otel-demo tutorial for upstream OpenSearch integration</strong>
-          </p>
-        </th>
-      </tr>
-      <tr>
-        <th width="50%" align="center" style="border: 1px solid #30363d; padding: 40px; font-weight: normal; vertical-align: top; text-align: center;">
-          <div style="margin-bottom: 10px;">
-            <img src="https://img.shields.io/badge/Litmus%20Chaos-5B44BA?style=for-the-badge&logo=litmuschaos&logoColor=white" alt="Litmus Chaos Logo" />
-          </div>
-          <div style="margin-bottom: 16px;">
-            <a href="https://github.com/litmuschaos/litmus/pull/5521" style="text-decoration: none;">
-              <img src="https://img.shields.io/badge/PR%20%234034-Merged-yellow?style=for-the-badge&logo=github&logoColor=black" alt="PR 5521 Merged">
-            </a>
-          </div>
-          <p style="color: #c9d1d9; font-size: 18px; line-height: 1.5; margin: 0; text-align: center;">
-            <strong>Fix ineffective subscriber fuzz test assertions</strong>
-          </p>
-        </th>
-        <th width="50%" align="center" style="border: 1px solid #30363d; padding: 40px; font-weight: normal; vertical-align: top; text-align: center;">
-          <div style="margin-bottom: 10px;">
-            <img src="https://img.shields.io/badge/Argo%20Events-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo Events Logo" />
-          </div>
-          <div style="margin-bottom: 16px;">
-            <a href="https://github.com/argoproj/argo-events/pull/3990" style="text-decoration: none;">
-              <img src="https://img.shields.io/badge/PR%20%233990-Merged-yellow?style=for-the-badge&logo=github&logoColor=black" alt="PR 3990 Merged">
-            </a>
-          </div>
-          <p style="color: #c9d1d9; font-size: 18px; line-height: 1.5; margin: 0; text-align: center;">
-            <strong>fix(bitbucketserver): replace %w with %v in Logger.Errorf call</strong>
-          </p>
-        </th>
-      </tr>
-    </thead>
-  </table>
-</div>
+<table align="center" style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <th align="center" style="text-align: center;">Project</th>
+    <th align="center" style="text-align: center;">PR</th>
+    <th align="center" style="text-align: center;">Contribution</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/opentofu/opentofu"><img src="https://img.shields.io/badge/OpenTofu-FF511C?style=for-the-badge&logo=opentofu&logoColor=white" alt="OpenTofu" /></a></td>
+    <td align="center"><a href="https://github.com/opentofu/opentofu/pull/4016"><img src="https://img.shields.io/badge/PR%20%234016-181717?style=for-the-badge&logo=github&logoColor=white" alt="PR #4016" /></a></td>
+    <td>Fix OAuth login channel race condition in tofu login command</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/opentofu/opentofu"><img src="https://img.shields.io/badge/OpenTofu-FF511C?style=for-the-badge&logo=opentofu&logoColor=white" alt="OpenTofu" /></a></td>
+    <td align="center"><a href="https://github.com/opentofu/opentofu/pull/4034"><img src="https://img.shields.io/badge/PR%20%234034-181717?style=for-the-badge&logo=github&logoColor=white" alt="PR #4034" /></a></td>
+    <td>Replace panic with error diagnostics for invalid TF_STATE_PERSIST_INTERVAL</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/opentofu/opentofu"><img src="https://img.shields.io/badge/OpenTofu-FF511C?style=for-the-badge&logo=opentofu&logoColor=white" alt="OpenTofu" /></a></td>
+    <td align="center"><a href="https://github.com/opentofu/opentofu/pull/4173"><img src="https://img.shields.io/badge/PR%20%234173-181717?style=for-the-badge&logo=github&logoColor=white" alt="PR #4173" /></a></td>
+    <td>Set span error status on module fetch failure path in tofu init</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/litmuschaos/litmus"><img src="https://img.shields.io/badge/Litmus%20Chaos-5B44BA?style=for-the-badge&logo=litmuschaos&logoColor=white" alt="Litmus Chaos" /></a></td>
+    <td align="center"><a href="https://github.com/litmuschaos/litmus/pull/5528"><img src="https://img.shields.io/badge/PR%20%235528-181717?style=for-the-badge&logo=github&logoColor=white" alt="PR #5528" /></a></td>
+    <td>Update otel-demo tutorial for upstream OpenSearch integration</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/litmuschaos/litmus"><img src="https://img.shields.io/badge/Litmus%20Chaos-5B44BA?style=for-the-badge&logo=litmuschaos&logoColor=white" alt="Litmus Chaos" /></a></td>
+    <td align="center"><a href="https://github.com/litmuschaos/litmus/pull/5521"><img src="https://img.shields.io/badge/PR%20%235521-181717?style=for-the-badge&logo=github&logoColor=white" alt="PR #5521" /></a></td>
+    <td>Fix ineffective subscriber fuzz test assertions</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/argoproj/argo-events"><img src="https://img.shields.io/badge/Argo%20Events-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo Events" /></a></td>
+    <td align="center"><a href="https://github.com/argoproj/argo-events/pull/3990"><img src="https://img.shields.io/badge/PR%20%233990-181717?style=for-the-badge&logo=github&logoColor=white" alt="PR #3990" /></a></td>
+    <td>fix(bitbucketserver): replace %w with %v in Logger.Errorf call</td>
+  </tr>
+</table>
 
 
 ---
 
 <div align="center">
 
-# Certifications
-
-- AWS Certified Solutions Architect - Associate
-- Linux Master (Advanced / 1st Class), KAIT
+# Awards
 
 </div>
+
+<table align="center" style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <th align="center" style="text-align: center;">Award</th>
+    <th align="center" style="text-align: center;">Field</th>
+    <th align="center" style="text-align: center;">Result</th>
+  </tr>
+  <tr>
+    <td>대한민국 SW 오픈소스 개발자 대회</td>
+    <td>OSS</td>
+    <td>우수작선정</td>
+  </tr>
+  <tr>
+    <td>전공역량 학술제 포럼·개발역량경진대회</td>
+    <td>가톨릭대</td>
+    <td>최우수상</td>
+  </tr>
+  <tr>
+    <td>GGUM hackerton</td>
+    <td>가톨릭대</td>
+    <td>학부장상</td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+# License
+
+</div>
+
+<table align="center" style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <th align="center" style="text-align: center;">License</th>
+    <th align="center" style="text-align: center;">Issuer</th>
+  </tr>
+  <tr>
+    <td>AWS Certified Solutions Architect - Associate</td>
+    <td>AWS</td>
+  </tr>
+  <tr>
+    <td>Linux Master (Advanced / 1st Class)</td>
+    <td>KAIT</td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+# Organizations
+
+</div>
+
+<table align="center" style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <th align="center" style="text-align: center;">Activity</th>
+    <th align="center" style="text-align: center;">Field</th>
+  </tr>
+  <tr>
+    <td>오픈소스 컨트리뷰션 아카데미</td>
+    <td>Litmus Chaos</td>
+  </tr>
+  <tr>
+    <td>오픈소스 컨트리뷰션 아카데미</td>
+    <td>OpenStack & Kubernetes</td>
+  </tr>
+  <tr>
+    <td>ACC(AWS CLOUD CLUB)</td>
+    <td>AWS</td>
+  </tr>
+  <tr>
+    <td>GDG CUK</td>
+    <td>server, cloud</td>
+  </tr>
+  <tr>
+    <td>UMC</td>
+    <td>server</td>
+  </tr>
+  <tr>
+    <td>AWS CLOUD SCHOOL</td>
+    <td>cloud, server</td>
+  </tr>
+</table>
