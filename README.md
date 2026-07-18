@@ -173,6 +173,10 @@ Currently, I'm focusing on building scalable systems using Go and Kubernetes, an
           <td>Linux Master (Advanced / 1st Class)</td>
           <td>KAIT</td>
         </tr>
+        <tr>
+          <td>Certified Kubernetes Administrator (CKA)</td>
+          <td></td>
+        </tr>
       </table>
     </td>
   </tr>
