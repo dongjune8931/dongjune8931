@@ -1,7 +1,7 @@
 # Nice way to meet me
 
 [![Email](https://img.shields.io/badge/ldj9905717@gmail.com-red)](mailto:ldj9905717@gmail.com)
-[![Velog]()
+<!-- [![Velog]()-->
 
 ---
 
